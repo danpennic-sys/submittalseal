@@ -1,0 +1,19 @@
+{
+  "type": "submittal",
+  "job_id": "JOB-2026-042",
+  "site": "Site Alpha — Springfield, MO",
+  "submittal_number": "SUB-014",
+  "spec_section": "05 12 00 - Structural Steel Framing",
+  "description": "Shop drawings for structural steel columns and beams - Building B",
+  "submitter": "Steel Fabricator Inc.",
+  "recipient": "Engineer of Record",
+  "submitted_at": "2026-11-10T14:00:00Z",
+  "status": "approved_as_noted",
+  "response": "Approved as noted. Revise connection detail C3 per redlines. Resubmit for record.",
+  "response_date": "2026-11-12T09:15:00Z",
+  "attachments": ["shop_drawings_revA.pdf", "calc_summary.pdf"],
+  "media_hashes": ["a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456"],
+  "notes": "Reviewed on site with superintendent. Photo of redlines attached.",
+  "sealed_at": "2026-11-12T10:00:00Z",
+  "tool": "SubmittalSeal/0.1.0"
+}
